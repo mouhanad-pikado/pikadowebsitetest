@@ -1,0 +1,10 @@
+
+.navbar {
+    height: 4.315rem;
+ }
+.navbar img {
+    resize: inline;
+    max-height: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+ }
